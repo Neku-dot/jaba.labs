@@ -14,10 +14,9 @@
     <name>Moviservice</name>
     <description>Moviservice</description>
     <properties>
-            <sonar.organization>maksentiu</sonar.organization>
-            <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <java.version>17</java.version>
-    </properties>
+  <sonar.organization>neku-dot</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
